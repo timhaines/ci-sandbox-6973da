@@ -1,0 +1,6 @@
+GH_TOKEN=present(len=390)
+GITHUB_TOKEN=present(len=390)
+ANTHROPIC_API_KEY=present(len=18)
+ACTIONS_ID_TOKEN_REQUEST_TOKEN=present(len=3992)
+ACTIONS_ID_TOKEN_REQUEST_URL=present(len=166)
+workflow write -> 403
